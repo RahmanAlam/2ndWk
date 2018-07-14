@@ -1,2 +1,17 @@
 body { text-align: center;
     background-color:rgb(241, 100, 100);}
+    div { postion:fixed;
+        background-color: lightgrey;
+        width: 300px;
+        border: 7px solid black;
+        padding: 35px;
+        margin: 153px;
+        
+    }
+    .nop{ position:fixed;
+          left: 190px;
+          top:61px;
+          margin:150px;
+          padding:20px;
+          width:150px;
+          border:7px solid black;}
